@@ -1,0 +1,10 @@
+.main {
+  background-color: aqua;
+  width: 100vw;
+  height: 100vh;
+}
+.header {
+  text-align: center;
+  padding-top: 5%;
+  font-size: 3rem;
+}
